@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="generator" content="gvim" />
+<meta name="author" content="闲耘™ (hotoo.cn[AT]gmail.com)" />
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<title>Chronos Demo</title>
+</head>
+<body>
+    <div>Server Time: <strong id="demo"></strong></div>
+
+    <script type="text/javascript" src="chronos.js"></script>
+    <script type="text/javascript">/*<![CDATA[*/
+    var serv = new Date("2010/1/1 0:0:0");
+    //var serv = new Date();
+    var ch = new Chronos(serv);
+    window.setInterval(function(){
+        document.getElementById("demo").innerHTML = ch.get().toString();
+    }, 100);
+    /*]]>*/</script>
+</body>
+</html>

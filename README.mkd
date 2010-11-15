@@ -1,0 +1,15 @@
+
+# Chronos
+浏览器端的时间校准。
+
+## See Also
+* http://www.time.ac.cn/stime.asp
+* http://www.stdtime.gov.tw/chinese/home.aspx
+
+* http://simo.blshe.com/post/782/90384
+* http://en.wikipedia.org/wiki/Chronos
+    * http://zh.wikipedia.org/zh-cn/%E6%9F%AF%E7%BE%85%E8%AB%BE%E6%96%AF
+    * http://zh.wikipedia.org/zh-cn/%E8%90%A8%E5%9B%BE%E5%B0%94%E5%8A%AA%E6%96%AF
+    * http://zh.wikipedia.org/zh-cn/%E8%90%A8%E5%9B%BE%E6%81%A9
+* http://zhishi.sohu.com/question/26666665.html
+* http://www.singtaobooks.com/images/in-Greek.pdf
